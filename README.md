@@ -6,5 +6,5 @@ Aing Dzikri Raihan😎
 </p>
 
 <p align="center">
-  ======= "One Day or Day one" =======
+  ======== "One Day or Day one" ========
 </p>
