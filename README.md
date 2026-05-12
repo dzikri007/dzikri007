@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  🎯 Aspiring Data Analyst • Data Enthusiast • Curious about how the world works 🌍
+  🎯 Aspiring Data Analyst | Data Enthusiast | Exacting to know how the world works 🌍
 </h3>
 
 <p align="center">
