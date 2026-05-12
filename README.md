@@ -3,10 +3,10 @@
 <img src="./download (1).gif" width="100%"/>
 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7C843&center=true&vCenter=true&width=600&lines=Aing+Dzikri;Aspiring+Data+Analyst;Data+Enthusiast;Exacting+To+Know+How+The+World+Works"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=700&color=F7C843&center=true&vCenter=true&width=800&lines=Aing+Dzikri;Nuju+Ngulik+data+sambil+ngulik+hirup;Teu+kudu+sampurna,+nu+penting+maju"/>
 
 <br>
 
- *"One Day or Day One."*
+ *"Ulah kumeok samemeh di pacok"*
 
 </div>
