@@ -1,16 +1,13 @@
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/1c44f449-56b9-4b92-a73c-1c8aa5f53c3a"
-    alt="banner"
-    width="900"
-    style="border-radius:15px;"
-  />
-</p>
+<div align="center">
 
-<h3 align="center">
-  🎯 Aspiring Data Analyst | Data Enthusiast | Exacting to know how the world works 🌍
-</h3>
+<img src="./assets/city-night.gif" width="100%"/>
 
-<p align="center">
-  ───────── ✦ One Day or Day One ✦ ─────────
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7C843&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Enthusiast;Always+Learning+New+Things" />
+
+<br>
+
+> *"One Day or Day One."*
+
+</div>
