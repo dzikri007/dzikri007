@@ -7,6 +7,6 @@
 
 <br>
 
- *"🎯 Aspiring Data Analyst | Data Enthusiast | Exacting to know how the world works🌏"*
+ *"🎯 Aspiring Data Scientist | Data Enthusiast | Exacting to know how the world works🌏"*
 
 </div>
